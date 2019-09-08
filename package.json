@@ -1,0 +1,28 @@
+{
+  "name": "doc-cookie",
+  "version": "1.0.5",
+  "description": "handle cookie in html",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "author": "ainuo5213",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "release": "tsc && npm publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ainuo5213/doc-cookie.git"
+  },
+  "keywords": [
+    "cookie",
+    "html"
+  ],
+  "devDependencies": {
+    "typescript": "^3.5.3"
+  },
+  "bugs": {
+    "url": "https://github.com/ainuo5213/doc-cookie/issues"
+  },
+  "homepage": "https://github.com/ainuo5213/doc-cookie#readme"
+}
