@@ -9,14 +9,14 @@ yarn add doc-cookie
 ```
 
 #### 使用
-#####引入包
+##### 引入包
 ```javascript
 // 在es6模块化里面
 import {setCookie, geCookie, removeCookie} from 'doc-cookie'
 // 在nodejs里面
 const {setCookie, geCookie, removeCookie} = require('doc-cookie')
 ```
-#####API 
+##### API 
 ```javascript
 // 无操作
 setCookie()
